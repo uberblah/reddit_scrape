@@ -1,0 +1,6 @@
+{
+    "output_directory": "/home/uberblah/data/raw/reddit_comments",
+    "interval": 3600,
+    "update": 36000,
+    "suffix": "_updated"
+}
